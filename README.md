@@ -1,8 +1,2 @@
-# helloworld what's the github
-oijkjkljjkjfkjlkajslkfjlka
-gjkrejiojgklnjeojg 
-fdajfiowaufjkiwjaifj
-foijwieogjnjagpij
-fafewfafafav  f
-急需写叫司机空军飞机而我
-热热vv
+###计算机资源分享
+1、数据挖掘与知识发现（第三版） 高等教育出版社（课件、视频、课后答案）
